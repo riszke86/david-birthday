@@ -1,0 +1,1 @@
+David’s NFC bowling invitation. Open index.html to preview. RSVP buttons open WhatsApp with a pre-filled yes or no response. The child’s name is optional. Upload index.html and bowling-invitation.png together to your hosting provider, then programme the NFC tag with the HTTPS webpage URL.
